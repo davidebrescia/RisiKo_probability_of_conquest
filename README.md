@@ -1,6 +1,6 @@
 # RISIKO Probability Calculator
 
-Just to make my friends hate me even more :)
+So my friends can hate me even more :)
 
 ## Problem
 We're talking about the RisiKo game (a.k.a. 'Risk'). I have N armies in Kamchatka. My opponent has M armies in Alaska. If I attack, what's the probability of conquering the Alaska?  
